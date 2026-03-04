@@ -1,6 +1,6 @@
 # Lexis Lua API Docs (EmmyLua Stubs)
 
-Typed Lua stub files for the Lexis scripting API, organized by module for editor autocomplete, hover docs, and type hints. This info was scraped on 03/03/2026.
+Typed Lua stub files for the Lexis scripting API, organized by module for editor autocomplete, hover docs, and type hints. This info was scraped on 03/03/2026. Also contains ShillenLua 1.7.1 as reference code, taken from [here](https://discord.com/channels/1181574376727003166/1453814961838231715/1458189966961279263).
 
 ## What This Repo Is
 
